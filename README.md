@@ -93,6 +93,14 @@ Construcción del sistema.
 
 Transición a los usuarios
 
+# Diagrama de Gantt del proyecto
+
+![](https://github.com/DiegoGaleano/Cronometro_FIS/blob/main/diagramas/Diagrama de Gantt Cronómetro_001.png)
+
+> Diagrama de Gantt. Para descargar el pdf [haz click aquí.](https://github.com/DiegoGaleano/Cronometro_FIS/blob/main/diagramas/Diagrama de Gantt Cronómetro.pdf)
+
+
+
 
 #### Equipo de trabajo
 
