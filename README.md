@@ -62,17 +62,17 @@ Construcción del sistema.
 
 ### Requerimientos
 #### Modelo de casos de uso
-![](https://image.flaticon.com/icons/png/512/1953/1953403.png)
+![](https://github.com/DiegoGaleano/Cronometro_FIS/diagramas/casos_de_uso.png)
 
 > Diagrama de Casos de Uso del Cronómetro.
 ### Análisis y diseño
 #### Modelo de análisis
-![](https://image.flaticon.com/icons/png/512/1953/1953403.png)
+![](https://github.com/DiegoGaleano/Cronometro_FIS/diagramas/)
 
 > Diagrama Modelo de Análisis del Cronómetro.
 
 #### Modelo de diseño y Modelo de despliegue
-![](https://image.flaticon.com/icons/png/512/1953/1953403.png)
+![](https://github.com/DiegoGaleano/Cronometro_FIS/diagramas/)
 
 > Modelo de diseño y Modelo de despliegue.
 
@@ -80,7 +80,7 @@ Construcción del sistema.
 
 ### Prueba
 #### Modelo de prueba
-![](https://image.flaticon.com/icons/png/512/1953/1953403.png)
+![](https://github.com/DiegoGaleano/Cronometro_FIS/diagramas/)
 
 > Diagrama de Pruena del Cronómetro.
 
