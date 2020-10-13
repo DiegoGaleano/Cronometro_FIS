@@ -88,7 +88,9 @@ Construcción del sistema:
 
 
 # Costo totaL del proyecto
-![](https://github.com/DiegoGaleano/Cronometro_FIS/blob/main/diagramas/ingresos.jpeg)
+
+![](https://github.com/DiegoGaleano/Cronometro_FIS/blob/main/diagramas/ingresos.jepg)
+
 Teniendo en cuenta el diagrama de Gantt las horas aproximadas de trabajo son 30, y si tenemos en cuenta que el valor que un ingeniero cobra por cada hora de su trabajo es de 21.875 para un basico de 3.500.000 y sumando las prestaciones, los servicios de salud e impuestos obligatorios el nuevo costo por hora de trabajo es de 32.125. Para un costo totoal del proyecto de 963.750
 
 #### Equipo de trabajo
