@@ -32,7 +32,7 @@ Definición del alcance del proyecto
 
 ### Objetivos
 
- - realizar un cronometro el cual permita guardar 10 
+ - realizar un cronometro el cual permita guardar 10 memorias 
  - implementar un temporizador 
 
 # Elaboración
