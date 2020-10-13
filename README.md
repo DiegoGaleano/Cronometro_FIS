@@ -6,16 +6,13 @@
     + Alcances
     + Objetivos
 + Elaboración
-   
 + Contrucción
     + Requerimientos
 		+ Modelo de casos de uso
     + Análisis y diseño
 		+ Modelo de análisis
-		+ Modelo de diseño 
+		+ Modelo de diseño
     + Codificación
-
-  
 + Transición
     + Versión final
 
@@ -26,12 +23,12 @@ Definición del alcance del proyecto
 
 ### Alcance
 
- El alcance del Proyecto inicialmente sera creado  para clase de fundamentos de ingenieria de software para realizar un analisis de costos y de seguimiento de un proyecto 
+ El alcance del Proyecto inicialmente sera creado  para clase de fundamentos de ingenieria de software para realizar un analisis de costos y de seguimiento de un proyecto
 
 ### Objetivos
 
- - realizar un cronometro el cual permita guardar 10 memorias 
- - implementar un temporizador 
+ - realizar un cronometro el cual permita guardar 10 memorias
+ - implementar un temporizador
 
 # Elaboración
 
@@ -68,10 +65,10 @@ Construcción del sistema:
 
 > Diagrama Modelo de Análisis del Cronómetro.
 
-#### Modelo de diseño y Modelo de despliegue
-![](https://github.com/DiegoGaleano/Cronometro_FIS/blob/main/diagramas/)
+#### Diagrama de clases
+![](https://github.com/DiegoGaleano/Cronometro_FIS/blob/main/diagramas/diagrama_clases.png)
 
-> Modelo de diseño y Modelo de despliegue.
+> Diagrama de clases del cronómetro.
 
 ### Prueba
 #### Modelo de prueba
@@ -89,9 +86,9 @@ Construcción del sistema:
 
 # Costo totaL del proyecto
 
-![](https://github.com/DiegoGaleano/Cronometro_FIS/blob/main/diagramas/ingresos.jepg)
+Teniendo en cuenta el diagrama de Gantt las horas aproximadas de trabajo son 30, y si tenemos en cuenta que el valor que un ingeniero cobra por cada hora de su trabajo es de $21.875 para un basico de $3'500.000 y sumando las prestaciones, los servicios de salud e impuestos obligatorios el nuevo costo por hora de trabajo es de $32.125. Para un costo totoal del proyecto de $963.750.
 
-Teniendo en cuenta el diagrama de Gantt las horas aproximadas de trabajo son 30, y si tenemos en cuenta que el valor que un ingeniero cobra por cada hora de su trabajo es de 21.875 para un basico de 3.500.000 y sumando las prestaciones, los servicios de salud e impuestos obligatorios el nuevo costo por hora de trabajo es de 32.125. Para un costo totoal del proyecto de 963.750
+![](https://github.com/DiegoGaleano/Cronometro_FIS/blob/main/diagramas/ingresos.jepg)
 
 #### Equipo de trabajo
 
