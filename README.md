@@ -28,11 +28,12 @@ Definición del alcance del proyecto
 
 ### Alcance
 
-/* Alcance del proyecto */
+/* El alcance del Proyecto inicialmente sera creado  para clase de fundamentos de ingenieria de software para realizar un analisis de costos y de seguimiento de un proyecto */
 
 ### Objetivos
 
-/* Lista de objetivos */
+/* - realizar un cronometro el cual permita guardar 10 */
+/* - implementar un temporizador */
 
 # Elaboración
 
