@@ -6,18 +6,16 @@
     + Alcances
     + Objetivos
 + Elaboración
-    + Arquitectura
+   
 + Contrucción
     + Requerimientos
 		+ Modelo de casos de uso
     + Análisis y diseño
 		+ Modelo de análisis
-		+ Modelo de diseño y Modelo de despliegue
+		+ Modelo de diseño 
     + Codificación
-    + Prueba
-		+ Modelo de prueba
-    + Admin proyecto
-    + Gestión configuración y cambio
+
+  
 + Transición
     + Versión final
 
@@ -53,13 +51,10 @@ Otros requisitos para seleccionar la arquitectura:
 
 En este orden de ideas, se establece que para el desarrollo del cronómetro se centrará en el uso de __Java__ como lenguaje principal.
 
-### Arquitectura del proyecto
-
-/* Descripción de la arquitectura */
 
 # Construcción
 
-Construcción del sistema.
+Construcción del sistema:
 
 ### Requerimientos
 #### Modelo de casos de uso
@@ -78,21 +73,12 @@ Construcción del sistema.
 
 > Modelo de diseño y Modelo de despliegue.
 
-### Codificación
-
 ### Prueba
 #### Modelo de prueba
 ![](https://github.com/DiegoGaleano/Cronometro_FIS/blob/main/diagramas/)
 
 > Diagrama de Pruena del Cronómetro.
 
-### Admin proyecto
-### Gestión configuración y cambio
-
-
-# Transición
-
-Transición a los usuarios
 
 # Diagrama de Gantt del proyecto
 
@@ -101,7 +87,9 @@ Transición a los usuarios
 > Diagrama de Gantt. Para descargar el pdf [haz click aquí.](https://github.com/DiegoGaleano/Cronometro_FIS/blob/main/diagramas/Horas_final.pdf)
 
 
+# Costo totaL del proyecto
 
+Teniendo en cuenta el diagrama de Gantt las horas aproximadas de trabajo son 30, y si tenemos en cuenta que el valor que un ingeniero cobra por cada hora de su trabajo es de 21.875 para un basico de 3.500.000 y sumando las prestaciones, los servicios de salud e impuestos obligatorios el nuevo costo por hora de trabajo es de 32.125. Para un costo totoal del proyecto de 963.750
 
 #### Equipo de trabajo
 
